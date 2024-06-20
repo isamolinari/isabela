@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(247, 246, 225);
+}
+
+.header{
+    padding: 30px;
+}
+
+.links{
+    display: inline;
+    margin-left: 500px;
+}
+
+.links a{
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 3px;
+}
+
+.links a:hover{
+color: #eb2e2e;
+border-top: 2px solid #eb2e2e;
+border-bottom: 2px solid #eb2e2e;    
+}
+.span-1,.span-2{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.span-1{
+    color: #6866dd;
+}
+
+.span-2{
+    color: #86a8aa;
+}

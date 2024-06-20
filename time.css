@@ -1,0 +1,54 @@
+header{
+    font-size: 45px;
+    background-color: azure;
+    color: black;
+    padding: 26px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 2px solid grey;
+}
+
+body{
+    background-color: #0bc9cb;
+    font-style:oblique;
+}
+
+.Loja{
+width: 980px;
+margin: 0 auto;
+padding:50px 0 ;
+}
+
+.Loja li{
+display: inline-block;
+text-align: center;
+width: 20%;
+vertical-align: middle;
+margin: 0 2% auto;
+padding: 30px 20px;
+box-sizing: border-box;
+border: 2px solid #000000;
+border-radius: 10px;
+}
+
+li img{
+    width: 80%;
+}
+
+.Loja li:hover{
+    border: 4px solid #ffffff;
+}
+
+.Loja-descricao{
+    font-size: 12px;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+footer{
+    border-top: 3px solid grey;
+}
